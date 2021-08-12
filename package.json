@@ -1,11 +1,9 @@
 {
   "scripts": {
-    "build": "grunt uglify",
     "start": "node server.js"
   },
   "devDependencies": {
   },
   "dependencies": {
-    "express": "^4.15.2"
   },
 }
